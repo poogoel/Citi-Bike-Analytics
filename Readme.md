@@ -15,7 +15,7 @@ An analysis of the New York Citi Bike Program, in who are responsible for overse
 * Click [here](https://public.tableau.com/profile/poonam.goel#!/vizhome/CitiBikeDataAnalysis_15762113466980/CitiBikeDataAnalysis?publish=yes) to view complted dashboard
 
 ## Data Source
-![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/citibikedata.png)
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/citi-bike-station-bikes.jpg?raw=true)
 
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
