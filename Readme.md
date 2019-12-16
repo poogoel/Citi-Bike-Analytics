@@ -93,8 +93,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </tbody>
 </table>
 
-* Limitation
-It appears that male are the dominant customer at all time.
+* <b>Limitation </b>: It appears that male are the dominant customer at all time.
 
 ![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/Ridership%20by%20month.PNG?raw=true)
 
