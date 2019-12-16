@@ -14,14 +14,14 @@ An analysis of the New York Citi Bike Program, in who are responsible for overse
  
 * Click [here](https://public.tableau.com/profile/poonam.goel#!/vizhome/CitiBikeDataAnalysis_15762113466980/CitiBikeDataAnalysis?publish=yes) to view complted dashboard
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/top_location.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/top_location.png)
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/avg_bike_distance.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/avg_bike_distance.png)
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/popularity_over_time.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/popularity_over_time.png)
 
 ## Data Source
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/citibikedata.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/citibikedata.png)
 
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
@@ -102,7 +102,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 * Limitation
 It appears that male are the dominant customer at all time.
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/limitation.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/limitation.png)
 
 
 ## Findings 
@@ -110,23 +110,23 @@ It appears that male are the dominant customer at all time.
 
 ### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend.
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/customer_base.png) ![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/femal_ridership.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/customer_base.png) ![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/femal_ridership.png)
 
 ### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/peakhours.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/peakhours.png)
 
 ### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. 
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/2019_growth.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/2019_growth.png)
 
 ## Map visualization 
 
-![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/master/image/popular_location.png)
+![alt text](https://raw.githubusercontent.com/Poogoel880110/Citi-Bike-Analytics/image/popular_location.png)
 
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/Poogoel880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
+<img src="https://raw.githubusercontent.com/Poogoel880110/tech-logo/python%20logo.png" width="240" height="50"/>
 
-<img src="https://raw.githubusercontent.com/Poogoel880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
+<img src="https://raw.githubusercontent.com/Poogoel880110/tech-logo/tableau%20logo.png" width="240" height="60"/>
 
