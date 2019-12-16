@@ -96,32 +96,32 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 * Limitation
 It appears that male are the dominant customer at all time.
 
-![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/Ridership by month.png)
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/Ridership%20by%20month.PNG?raw=true)
 
 
 ## Findings 
 
 
-### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend.
+### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal riders is increasing over time.
 
-![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/trip duration by age.png) 
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/trip%20duration%20by%20age.PNG?raw=true) 
 
 ### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
 
 ![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/Popular%20times%20of%20ridership.PNG)
 
-### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. 
+### (3) When the temperature is cold in winter, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. 
 
-![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/Ridership by month.png)
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/Ridership%20by%20month.PNG?raw=true)
 
 ## Map visualization 
 
-![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/top_location.png)
-![alt text](https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/top_location2.png)
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/top_location.PNG?raw=true)
+![alt text](https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/top_location2.PNG?raw=true)
 
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/Python_logo.jpg" width="240" height="50"/>
+<img src="https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/Python_logo.jpg?raw=true" width="240" height="50"/>
 
-<img src="https://raw.githubusercontent.com/poogoel/Citi-Bike-Analytics/master/images/tableau_logo.png" width="240" height="60"/>
+<img src="https://github.com/poogoel/Citi-Bike-Analytics/blob/master/images/Tableau_Logo.png?raw=true" width="240" height="60"/>
 
